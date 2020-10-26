@@ -71,17 +71,21 @@
 ## Testes
 
 ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-1.png?w=512)
-<center> Zoom 100%, rodapé situado no fim da página </center>
+Zoom 100%, rodapé situado no fim da página </center>
+
 
 ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-2.png?w=512)
-##### Zoom 150%, preocupação em alinhar a imagem com as miniaturas existentes e também alinhar o botão "adicionar à sacola" com o existente
+Zoom 150%, preocupação em alinhar a imagem com as miniaturas existentes e também alinhar o botão "adicionar à sacola" com o existente
+
 
 ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-3.png?w=512)
-###### Zoom 75%, proporção mantida
+Zoom 75%, proporção mantida
 
 ## Contato
 
-> Renata Mitsue Karato
-> 11 9 9763-7438
-> [Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
+Renata Mitsue Karato
+
+11 9 9763-7438
+
+[Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
 
