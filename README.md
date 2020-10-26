@@ -10,7 +10,7 @@
 
 [Script Para Rodar No Console do Navegador](https://github.com/rmkarato/juni/blob/main/code/teste-juni-console-animale.txt)
 
-- Bast copiar e colar o scrip acima no console do navegador.
+- Copiar e colar o scrip acima no console do navegador.
 
 ## Tasklist
 
