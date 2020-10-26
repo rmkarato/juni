@@ -23,7 +23,7 @@
 - [x] Pegar valor do produto de forma dinâmica;
 - [x] Calcular desconto de 10% sobre o produto;
 - [x] Implantar o botão de "adicionar à sacola";
-- [ ] Botão "adicionar à sacola" funcionando;
+- [ ] Botão "adicionar à sacola" simulando click do original;
 - [x] Implantar o botão "X" para fechar rodapé;
 - [x] Botão "x" funcionando;
 
