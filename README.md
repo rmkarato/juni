@@ -21,6 +21,10 @@ Exemplo:
 - Acessar uma página de produto do site da [Animale](https://www.animale.com.br/macacao-de-couro-botoes-laterais-verde-07-93-1658-0300/p);
 - Copiar e colar o script acima no console do navegador.
 
+## Navegador Utilizado
+
+- Google Chrome
+
 ## Tasklist
 
 - [x] Colocar o rodapé fixo no fim da página;
