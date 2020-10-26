@@ -3,6 +3,9 @@
 ### Teste Proposto
 
 Criar rodapé fixo na página de compra de produto
+
+Exemplo:
+
 ![](https://github.com/rmkarato/juni/blob/main/imgs/teste_animale.png?w=512)
 
 ## Estrutura do Rodapé Em HTML
