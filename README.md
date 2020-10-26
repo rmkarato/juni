@@ -72,7 +72,7 @@
 - Assim, implantei uma função que, quando apertar o "X", transforma em "display: none" e também diminui o height do footer para que fique com o tamanho do original;
 - Também foi implantada a função para reabrir o footer. Então o display volta a ficar "block" e o height do footer é aumentado para que ele fique localizado fixo no fim da página.
 
-## Testes
+## Resultado
 
 ### Zoom 100%
 ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-1.png?w=512)
@@ -85,6 +85,11 @@
 ### Zoom 75%
 ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-3.png?w=512)
 (proporção mantida mesmo com zoom menor)
+
+## Extra
+
+- Criei uma flag [-10%], com a mesma estilização de fonte e cor de quando um produto está em promoção no site e coloquei ao lado do valor com desconto de 10%;
+- Achei que dessa forma, avaliando a experiência do usuário, seria um atrativo para a compra.
 
 ## Contato
 
