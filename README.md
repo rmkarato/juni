@@ -2,8 +2,8 @@
 
 ## Estrutura do Rodapé Em HTML
 
-![](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
-[Código em HTML aqui](http://google.com/)
+[Organograma do Código HTML](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
+[Ver Código Em HTML Aqui](http://google.com/)
 
 ## Rodapé Fixo
 
