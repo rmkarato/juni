@@ -68,6 +68,17 @@
 - Assim, implantei uma função que, quando apertar o "X", transforma em "display: none" e também diminui o height do footer para que fique com o tamanho do original;
 - Também foi implantada a função para reabrir o footer. Então o display volta a ficar "block" e o height do footer é aumentado para que ele fique localizado fixo no fim da página.
 
+## Testes
+
+- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-1.png?w=512)
+#### Zoom 100%, rodapé situado no fim da página
+
+- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-2.png?w=512)
+### Zoom 150%, preocupação em alinhar a imagem com as miniaturas existentes e também alinhar o botão "adicionar à sacola" com o existente
+
+- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-3.png?w=512)
+## Zoom 75%, proporção mantida
+
 ## Contato
 
 > Renata Mitsue Karato
