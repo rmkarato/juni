@@ -10,7 +10,8 @@
 
 [Script Para Rodar No Console do Navegador](https://github.com/rmkarato/juni/blob/main/code/teste-juni-console-animale.txt)
 
-- Copiar e colar o scrip acima no console do navegador.
+- Acessar uma página de produto do site da [Animale](https://www.animale.com.br/macacao-de-couro-botoes-laterais-verde-07-93-1658-0300/p);
+- Copiar e colar o script acima no console do navegador.
 
 ## Tasklist
 
@@ -35,7 +36,7 @@
 ### Como criei o rodapé?
 
 - Selecionei o footer já existente através da tag "querySelector()";
-- Criei os elementos novos que contém [no meu código HTML](http://google.com/) - com a tag "createElement()";
+- Criei os elementos novos que contém [no meu código HTML](https://github.com/rmkarato/juni/blob/main/code/teste-juni-estrutura.html) - com a tag "createElement()";
 - Através do "appendChild()" eu conectei o código HTML, fazendo com que os respectivos elementos filhos ficassem ligados aos elemento-pai;
 - Com o "textContent", nomeei com informações genéricas os elementos;
 - Comecei a criar alguns estilos chamando o elemento com ".style". Assim pude ver como ía ficar a estrutura do rodapé;
