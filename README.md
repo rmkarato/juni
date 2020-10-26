@@ -70,14 +70,14 @@
 
 ## Testes
 
-- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-1.png?w=512)
-#### Zoom 100%, rodapé situado no fim da página
+![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-1.png?w=512)
+###### Zoom 100%, rodapé situado no fim da página
 
-- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-2.png?w=512)
-### Zoom 150%, preocupação em alinhar a imagem com as miniaturas existentes e também alinhar o botão "adicionar à sacola" com o existente
+![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-2.png?w=512)
+##### Zoom 150%, preocupação em alinhar a imagem com as miniaturas existentes e também alinhar o botão "adicionar à sacola" com o existente
 
-- ![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-3.png?w=512)
-## Zoom 75%, proporção mantida
+![](https://github.com/rmkarato/juni/blob/main/imgs/rodape-implantado-3.png?w=512)
+#### Zoom 75%, proporção mantida
 
 ## Contato
 
