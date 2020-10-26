@@ -2,12 +2,15 @@
 
 ## Estrutura do Rodapé Em HTML
 
-- [Organograma do Código HTML](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
-- [Ver Código Em HTML Aqui](http://google.com/)
+[Organograma do Código HTML](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
+
+[Ver Código Em HTML Aqui](https://github.com/rmkarato/juni/blob/main/code/teste-juni-estrutura.html)
 
 ## Script - Rodapé Fixo
 
-- [Script Para Rodar No Console do Navegador](http://google.com/)
+[Script Para Rodar No Console do Navegador](https://github.com/rmkarato/juni/blob/main/code/teste-juni-console-animale.txt)
+
+- Bast copiar e colar o scrip acima no console do navegador.
 
 ## Tasklist
 
