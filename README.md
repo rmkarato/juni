@@ -70,7 +70,7 @@
 
 ## Contato
 
-<p>Renata Mitsue Karato</p>
-<p>11 9 9763-7438</p>
-[Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
+> Renata Mitsue Karato
+> 11 9 9763-7438
+> [Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
 
