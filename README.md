@@ -25,7 +25,7 @@
 
 ## Observação
 
-- Após fechar o rodapé, ele pode ser aberto através da função "openFooterProduct" implantada
+- Após fechar o rodapé, ele pode ser aberto através da função "openFooterProduct" implantada.
 
 > openFooterProduct();
 
@@ -70,6 +70,6 @@
 
 ## Contato
 
-- Renata Mitsue Karato
-- 11 9 9763-7438
-- [Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
+Renata Mitsue Karato
+11 9 9763-7438
+[Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
