@@ -1,10 +1,12 @@
 # Juni - Teste Animale
 
-![](https://github.com/rmkarato/juni/blob/main/imgs/JUNI-teste-animale-renata-mitsue-karato%402x.png?w=512)
+## Estrutura do Rodapé Em HTML
+
+![](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
+[Código em HTML aqui](http://google.com/)
 
 ## Rodapé Fixo
 
 [Script Para Rodar No Console do Navegador](http://google.com/)
 
 ### Como criei o rodapé?
-
