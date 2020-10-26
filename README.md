@@ -27,7 +27,7 @@
 
 - Após fechar o rodapé, ele pode ser aberto através da função "openFooterProduct" implantada
 
-> opeFooterProduct();
+> openFooterProduct();
 
 ### Como criei o rodapé?
 
