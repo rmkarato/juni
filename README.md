@@ -72,4 +72,6 @@
 
 <p>Renata Mitsue Karato</p>
 <p>11 9 9763-7438</p>
-<p>[Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)</p>
+<p>
+  [Github](https://github.com/rmkarato) | [Linkedin](https://www.linkedin.com/in/rmkarato/)
+</p>
