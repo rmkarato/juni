@@ -1,0 +1,195 @@
+let footer = document.querySelector("footer");
+
+let modalFooter = document.createElement("div");
+
+let footerProduct = document.createElement("div");
+
+let productDetails = document.createElement("div");
+let productImg = document.createElement("img");
+
+let productDescription = document.createElement("div");
+let productName = document.createElement("div");
+let productPriceTitle = document.createElement("p");
+let productPriceTitleStr = document.createElement("strong");
+let productPrice = document.createElement("p");
+let productPriceStr = document.createElement("strong");
+let productPriceBreak = document.createElement("br");
+let productDiscountedPriceTitle = document.createElement("p");
+let productDiscountedPriceTitleStr = document.createElement("strong");
+let productDiscountedPrice = document.createElement("p");
+let productDiscountedPriceStr = document.createElement("strong");
+let productDiscountedPriceSolo = document.createElement("span");
+let productDiscountedPriceImportant = document.createElement("span");
+
+let productCart = document.createElement("div");
+let productCartButton = document.createElement("div");
+let addProductToCart = document.createElement("button");
+
+let closeFooterModal = document.createElement("div");
+let closeFooterProduct = document.createElement("span");
+
+footer.appendChild(modalFooter);
+modalFooter.appendChild(footerProduct);
+footerProduct.appendChild(productDetails);
+footerProduct.appendChild(closeFooterModal);
+
+productDetails.appendChild(productImg);
+productDetails.appendChild(productDescription);
+
+productDescription.appendChild(productName);
+productDescription.appendChild(productPriceTitle);
+productPriceTitle.appendChild(productPriceTitleStr);
+productDescription.appendChild(productPrice);
+productPrice.appendChild(productPriceStr);
+
+productDescription.appendChild(productPriceBreak);
+productDescription.appendChild(productDiscountedPriceTitle);
+productDiscountedPriceTitle.appendChild(productDiscountedPriceTitleStr);
+productDiscountedPriceStr.appendChild(productDiscountedPriceSolo);
+productDiscountedPriceStr.appendChild(productDiscountedPriceImportant);
+productDescription.appendChild(productDiscountedPrice);
+productDiscountedPrice.appendChild(productDiscountedPriceStr);
+
+footerProduct.appendChild(productCart);
+productCart.appendChild(productCartButton);
+productCartButton.appendChild(addProductToCart);
+closeFooterModal.appendChild(closeFooterProduct);
+
+productName.textContent = "Nome do Produto";
+productPriceTitleStr.textContent = "Preço:";
+productDiscountedPriceTitleStr.textContent = "Preço com desconto:";
+
+productPriceStr.textContent = "R$0,00";
+productDiscountedPriceSolo.textContent = "R$0,00";
+productDiscountedPriceImportant.textContent = "-10%";
+
+addProductToCart.textContent = "Adicionar à Sacola";
+closeFooterProduct.innerHTML = "&times;";
+
+footer.style.height = "584px";
+
+modalFooter.style.display = "block";
+modalFooter.style.overflow = "auto";
+modalFooter.style.zIndex = "1";
+
+footerProduct.style.backgroundColor = "#FFF";
+footerProduct.style.display = "flex";
+footerProduct.style.alignItems = "center";
+footerProduct.style.justifyContent = "center";
+footerProduct.style.width = "100%";
+footerProduct.style.bottom = "0";
+footerProduct.style.position = "fixed";
+footerProduct.style.height = "132px";
+footerProduct.style.borderTop = "1px solid black";
+
+footerProduct.className = "product-buyzone grid grid--center";
+productDetails.className = "product__images-container";
+productImg.className = "product__thumb";
+productName.className = "product__name productName product__name-prices h1";
+productPriceTitle.className = "descricao-preco";
+productPriceTitleStr.className = "skuBestPrice";
+productPrice.className = "descricao-preco";
+productPriceStr.className = "skuBestPrice";
+productDiscountedPriceTitle.className = "descricao-preco";
+productDiscountedPriceTitleStr.className = "skuBestPrice";
+productDiscountedPrice.className = "descricao-preco";
+productDiscountedPriceStr.className = "skuBestPrice";
+productDiscountedPriceImportant.className = "skuBestPrice";
+productCart.className = "grid product__infos";
+productCartButton.className = "product__infos-container";
+addProductToCart.className = "button button--buy button--full product__add-to-cart";
+
+productDetails.style.margin = 0;
+productDetails.style.width = "35.15%";
+productDetails.style.height = "132px";
+productDetails.style.position = "relative";
+productDetails.style.left = "7.5%";
+
+productCart.style.padding = "0";
+productCart.style.width = "46.875%";
+productCart.style.height = "132px";
+productCart.style.left = "4.675%";
+productCart.style.position = "relative";
+productCart.style.left = "3.5%";
+productCart.style.top = "46px";
+
+addProductToCart.style.height = "40px";
+addProductToCart.setAttribute("href", "javascript:;");
+
+productCartButton.style.display = "flex";
+productCartButton.style.alignItems = "center";
+productCartButton.style.justifyContent = "center";
+
+productImg.setAttribute("width", "72");
+productImg.setAttribute("height", "108");
+productImg.style.left = "36px";
+
+productDescription.style.position = "absolute";
+productDescription.style.top = "20px";
+productDescription.style.left = "80px";
+
+productName.style.textTransform = "uppercase";
+productName.style.margin = 0;
+productName.style.marginBottom = "5px";
+
+productPriceTitle.style.position = "absolute";
+productPrice.style.position = "absolute";
+productPrice.style.marginLeft = "38px";
+
+productDiscountedPriceTitle.style.display = "inline";
+productDiscountedPrice.style.display = "inline";
+
+productDiscountedPriceImportant.style.marginLeft = "10px";
+productDiscountedPriceImportant.style.border = "1px solid #A30000";
+productDiscountedPriceImportant.style.padding = "2.5px";
+productDiscountedPriceImportant.style.color = "#A30000";
+
+closeFooterModal.style.position = "absolute";
+closeFooterModal.style.top = "0";
+closeFooterModal.style.right = "0";
+closeFooterModal.style.marginTop = "5px";
+closeFooterModal.style.marginRight = "5px";
+closeFooterModal.style.fontSize = "25px";
+
+closeFooterProduct.style.fontWeight = "bolder";
+closeFooterProduct.style.cursor = "pointer";
+
+productImg.id = "product-thumbnail-image";
+
+let srcImg = document.querySelector("body > main > div.product-buyzone.container.grid.grid--center > div.product__images-container > div.product__images.js-product-images > div > div > div.slick-track > div.product__image-wrap.slick-slide.slick-current.slick-active > img").getAttribute("src");
+let altImg = document.querySelector("body > main > div.product-buyzone.container.grid.grid--center > div.product__images-container > div.product__images.js-product-images > div > div > div.slick-track > div.product__image-wrap.slick-slide.slick-current.slick-active > img").getAttribute("alt");
+
+document.getElementById("product-thumbnail-image").src = srcImg;
+document.getElementById("product-thumbnail-image").alt = "altImg";
+
+productName.id = "product-thumbnail-name";
+
+let productThumbnailName = document.querySelector("body > main > div.product-buyzone.container.grid.grid--center > div.grid.product__infos > div > div.product__infos-wrapper > div.grid.product__name-prices > h1 > div").innerHTML;
+
+document.getElementById("product-thumbnail-name").innerHTML = productThumbnailName;
+
+productPriceStr.id = "product-thumbnail-price";
+
+let productThumbnailPrice = document.querySelector("body > main > div.product-buyzone.container.grid.grid--center > div.grid.product__infos > div > div.product__infos-wrapper > div.grid.product__name-prices > div > div > div > p.descricao-preco > em.valor-por.price-best-price > strong").innerHTML;
+
+document.getElementById("product-thumbnail-price").innerHTML = productThumbnailPrice;
+
+productDiscountedPriceSolo.id = "product-discounted-thumbnail-price";
+
+let productDiscountedThumbnailPrice = dataLayer[0].productPriceTo;
+
+let productWithDiscount = productDiscountedThumbnailPrice*0.9;
+
+let formattedPrice = productWithDiscount.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+
+document.getElementById("product-discounted-thumbnail-price").innerHTML = formattedPrice;
+
+closeFooterProduct.onclick = function() {
+  modalFooter.style.display = "none";
+  footer.style.height = "452px";
+};
+
+openFooterProduct = () => {
+  modalFooter.style.display = "block";
+  footer.style.height = "584px";
+};
