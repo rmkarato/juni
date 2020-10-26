@@ -5,7 +5,7 @@
 - [Organograma do Código HTML](https://whimsical.com/embed/H8xjMLif1GLHBTZzA9Ex1u)
 - [Ver Código Em HTML Aqui](http://google.com/)
 
-## Rodapé Fixo
+## Script - Rodapé Fixo
 
 - [Script Para Rodar No Console do Navegador](http://google.com/)
 
